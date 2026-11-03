@@ -1,0 +1,11 @@
+.git
+.github
+target
+.idea
+.vscode
+*.log
+.env
+.env.*
+!.env.example
+README.md
+load-test
